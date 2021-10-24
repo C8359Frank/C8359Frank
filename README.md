@@ -3,7 +3,7 @@
 
 - 🌱 My interests are Terraform, Maven, Doccer 
 
-- 💬 Ask me about anything that you want to learn 
+- 💬 Ask me about anything that you want to learn cloud 
 
 
 ## 💻 AWS
