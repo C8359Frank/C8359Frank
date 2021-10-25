@@ -1,7 +1,7 @@
 ## Hi there. I'm Murat Fatih Teker
 - 🔭 I’m currently working on AWS and Devops  (Python | AWS | Kubernetes)
 
-- 🌱 My interests are Terraform, Maven, Doccer 
+- 🌱 My interests are Terraform, Maven, Docker, Ansible, Jenkins
 
 - 💬 Ask me about anything that you want to learn cloud 
 
